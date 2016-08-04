@@ -1,0 +1,17 @@
+User defaults from command line:
+    IDEDerivedDataPathOverride = /Users/devlakhova/Projects/iOS/PerfomanceTestsDemo/build
+
+Build settings from command line:
+    SDKROOT = iphonesimulator9.2
+
+=== BUILD TARGET PerfomanceTestsDemo OF PROJECT PerfomanceTestsDemo WITH CONFIGURATION Debug ===
+
+Check dependencies
+CodeSign error: entitlements are required for product type 'Application' in SDK 'Simulator - iOS 9.2'. Your Xcode installation may be damaged.
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
